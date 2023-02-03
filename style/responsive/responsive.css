@@ -1,0 +1,89 @@
+@media only screen and (min-width:4501px) and (max-width: 6000px) {}
+
+@media only screen and (min-width:3100px) and (max-width: 4500px) {}
+
+@media only screen and (min-width:2701px) and (max-width: 3100px) {}
+
+@media only screen and (min-width:2001px) and (max-width: 2700px) {}
+
+@media only screen and (min-width: 1801px) and (max-width: 2000px) {}
+
+@media only screen and (min-width:1601px) and (max-width: 1800px) {}
+
+@media only screen and (min-width:1517px) and (max-width: 1600px) {}
+
+@media (max-width:1200px) {
+    nav.navbar.navbar-expand-xl.bg-dark.navbar-dark.py-3.fixed-top {
+        width: 100%;
+    }
+}
+
+@media (max-width:1024px) {
+    nav.navbar.navbar-expand-xl.bg-dark.navbar-dark.py-3.fixed-top {
+        width: 100%;
+    }
+}
+
+@media (min-width:991px) {
+    nav.navbar.navbar-expand-xl.bg-dark.navbar-dark.py-3.fixed-top {
+        width: 100%;
+    }
+}
+
+@media (max-width:991px) {
+    nav.navbar.navbar-expand-xl.bg-dark.navbar-dark.py-3.fixed-top {
+        width: 92%;
+    }
+}
+
+@media (max-width:767px) {
+    nav.navbar.navbar-expand-xl.bg-dark.navbar-dark.py-3.fixed-top {
+        width: 92%;
+    }
+}
+@media (min-width:480px) {
+    .hex h1 {
+        bottom: 50%;
+        padding-top: 50%;
+        font-size: -5px;
+        z-index: 1;
+        transform: translateY(-100%) translatez(-1px);
+    }
+}
+@media (max-width:640px) {}
+
+@media (min-width:640px) {}
+
+@media (max-width:575px) {}
+
+@media (min-width:480px) {
+    .team .member {
+        position: relative;
+        box-shadow: 0px 2px 15px rgb(0 0 0 / 10%);
+        padding: 10px;
+        border-radius: 5px;
+        background: #fff;
+        transition: 0.5s;
+        width: 90%;
+    }
+    nav.navbar.navbar-expand-xl.bg-dark.navbar-dark.py-3.fixed-top {
+        width: 100%;
+    }
+    .hex p {
+        font-size: 10px;
+    }
+    /* nav.navbar.navbar-expand-lg.bg-light {
+        position: fixed;
+        width: 83%;
+        z-index: 999;
+        /* padding: 30px 0; 
+        font-family: 'Ubuntu', sans-serif;
+        transition: all 0.3s ease;
+    } */
+}
+
+@media (max-width:360px) {}
+
+@media (max-width:321px) {}
+
+
